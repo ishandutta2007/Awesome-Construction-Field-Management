@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Raken](https://www.rakenapp.com/)**  
-
-  Field-first platform specializing in daily reports, time tracking, production tracking, photo documentation, and simple communication between the jobsite and office.
-
-
-
-- **[Fieldwire (Hilti)](https://www.fieldwire.com/)**  
-
-  Leading jobsite coordination tool focused on plan viewing, task management, issue tracking, punch lists, and real-time collaboration marked directly on drawings.
-
-
-
-- **[HammerTech](https://www.hammertech.com/)**  
-
-  Construction management platform with strong field capabilities for safety, quality, daily reporting, and compliance tracking.
-
-
-
-- **[Safesite](https://www.safesite.co/)**  
-
-  Safety and field management platform emphasizing inspections, observations, incident reporting, and workforce safety culture on construction sites.
-
-
-
-- **[Procore](https://www.procore.com/)**  
-
-  Comprehensive construction management platform that includes robust field tools for daily logs, observations, inspections, drawings, and real-time collaboration across the project team.
-
-
-
-- **[Autodesk Build (Forma Build)](https://www.autodesk.com/products/autodesk-build/)**  
-
-  Part of Autodesk Construction Cloud, offering plan management, issue tracking, RFIs, daily reports, and tight integration with design and BIM data.
-
-
-
-- **[SiteMax](https://www.sitemaxsystems.com/)**  
-
-  Field and project management solution focused on safety, quality, daily reporting, and workforce management for construction.
-
-
-
-- **[Assignar](https://www.assignar.com/)**  
-
-  Resource and workforce management platform strong in scheduling crews, equipment, and field operations for construction and field service.
-
-
-
-- **[eSUB](https://www.esub.com/)**  
-
-  Cloud-based construction management software tailored for subcontractors, with field reporting, time tracking, and project documentation features.
-
-
-
-- **[BusyBusy](https://www.busybusy.com/)**  
-
-  Time tracking and field productivity platform designed for construction crews, with GPS verification, cost coding, and simple daily reporting.
+| Platform | Focus / Core Features | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Raken](https://www.rakenapp.com/)** | Daily reports, time tracking, production tracking, photo documentation, and field-to-office communication. | Starts at **$23/user/month** (Basic tier, billed annually; 3-user minimum) | **14-day free trial** with full access to daily logs and time tracking (no credit card required). |
+| **[Fieldwire (Hilti)](https://www.fieldwire.com/)** | Jobsite coordination, plan viewing, task management, issue tracking, punch lists, and drawing markup. | Starts at **$39/user/month** (Pro tier, billed annually) or $54/user/month (billed monthly) | **Free Forever Basic plan** limited to max 5 users, 3 projects, and 100 plan sheets. |
+| **[HammerTech](https://www.hammertech.com/)** | Safety, quality, subcontractor compliance, daily reporting, and jobsite risk management. | Starts at **~$500/project/month** (flat project fee based on annual construction volume; unlimited users, free for subcontractors) | **No free-forever plan** (0-day self-serve trial; live guided product demo & unlimited free subcontractor access). |
+| **[Safesite](https://www.safesite.co/)** | Safety inspections, digital observations, incident logs, hazard tracking, and safety scoring. | Starts at **$16/member/month** (Premium tier, billed annually) or $20/month (monthly) | **Free Forever plan** with unlimited members & guests (reporting & safety analytics history limited to 30 days; 30-day Premium trial). |
+| **[Procore](https://www.procore.com/)** | End-to-end construction platform with daily logs, observations, drawing sheets, inspections, and field coordination. | Starts at **~$375/month** (~$4,500–$10,000/year base tier for <$3M annual construction volume; includes unlimited users & storage) | **No free-forever plan** (0-day self-serve trial; personalized live demo and free subcontractor portal access for RFIs/bidding). |
+| **[Autodesk Build (Forma Build)](https://www.autodesk.com/products/autodesk-build/)** | Plan management, sheet viewing, issue tracking, RFIs, daily reports, and BIM/ACC ecosystem integration. | Starts at **$165/user/month** (or $1,550/user/year for Build 550 sheet tier; pay-as-you-go Flex tokens at $3/token) | **30-day free trial** with full access to Build tools and sheet viewing (no credit card required). |
+| **[SiteMax](https://www.sitemaxsystems.com/)** | Safety compliance forms, quality control, daily reporting, timekeeping, and subcontractor tracking. | Starts at **$25/user/month** (Starter tier, billed monthly; $20/user/month billed annually) | **14-day free trial** with full feature access; free Collaborator tier for view-only subs and external partners. |
+| **[Assignar](https://www.assignar.com/)** | Workforce scheduling, crew dispatch, heavy equipment allocation, and field compliance. | Starts at **~$400–$500/month** (~$4,800–$6,000/year base tier + onboarding setup fee) | **No free-forever plan** (0-day self-serve trial; interactive sandbox test drive and live demo available on request). |
+| **[eSUB](https://www.esub.com/)** | Subcontractor-tailored field reporting, labor tracking, change orders, RFIs, and daily jobsite logs. | Starts at **~$49/user/month** (base subcontractor tier, billed annually) | **No free-forever plan** (0-day self-serve trial; personalized guided live demo and pilot trial upon sales request). |
+| **[BusyBusy](https://www.busybusy.com/)** | Time tracking, GPS crew clock-in/out verification, equipment tracking, cost codes, and daily productivity logs. | Starts at **$9.99/user/month** (Pro tier, billed annually) or $11.99/mo + $40/month base admin fee | **Free Forever plan** with unlimited users (core GPS time clock & basic reports); **14-day free trial** on Pro/Premium features. |
 
 
 
