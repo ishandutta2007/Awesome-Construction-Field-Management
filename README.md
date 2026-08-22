@@ -74,7 +74,7 @@ Key jobsite operational pillars include:
 
 *Open-source GitHub repositories, self-hostable tools, and developer libraries for construction site management, field reporting, BIM, and inspections — sorted in descending order by GitHub Star count.*
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 🛠️ Tech Stack | 📖 Description & Field Capabilities |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📖 Description & Field Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript | Modular open-source ERP with integrated **Project Management**, **Field Service**, **Timesheets**, **Inventory**, and **Equipment Maintenance** suites widely used by contractors for site operations. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, JS | Comprehensive open-source ERP with native **Projects**, **Material Requests**, **Subcontracting**, and **Job Costing** modules easily extensible for jobsite daily logs and field dispatch. |
