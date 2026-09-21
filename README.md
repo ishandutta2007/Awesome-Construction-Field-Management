@@ -33,6 +33,7 @@
 - [💻 Open-Source Construction & Field Tools (Ranked by Stars)](#-open-source-construction--field-tools-ranked-by-stars)
 - [🧰 Categorized Field Capabilities](#-categorized-field-capabilities)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📚 Buyer Guides & Comparisons](#-buyer-guides--comparisons)
 - [📈 Star History](#-star-history)
 - [📜 Disclaimer & License](#-disclaimer--license)
 
@@ -121,6 +122,12 @@ Key jobsite operational pillars include:
 - **Open-Source**: [ERPNext](https://github.com/frappe/erpnext), [Construbot](https://github.com/javier-llamas/construbot)
 
 ---
+
+## 📚 Buyer Guides & Comparisons
+
+Independent resources for evaluating field / service platforms (not SaaS products themselves):
+
+- [FieldServiceScout](https://www.fieldservicescout.com/best/hvac-software) — Free, vendor-neutral comparisons of Jobber, Housecall Pro, ServiceTitan peers for trade shops (features + modeled true cost). Not FieldScout/fieldscout.io.
 
 ## 📈 Star History
 
